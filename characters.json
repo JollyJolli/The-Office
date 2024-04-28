@@ -1,0 +1,1343 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "gender": "Male",
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Weight Loss",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/d/d7/Alex.jpg",
+      "lastAppearance": "Customer Survey",
+      "actor": "Rich Sommer"
+    },
+    {
+      "id": 2,
+      "name": "Andy Bernard",
+      "gender": "Male",
+      "marital": "Erin Hannon",
+      "job": [
+        "Regional Manager of Dunder Mifflin Scranton (former)",
+        "Dunder Mifflin Regional Director of Sales (former)",
+        "Loose Screw Playhouse"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Dunder Mifflin Stamford",
+        "Loose Screw Playhouse"
+      ],
+      "firstAppearance": "Gay Witch Hunt",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/20/C0164512-C4C2-485C-9CB6-85B31F642090.jpeg",
+      "actor": "Ed Helms"
+    },
+    {
+      "id": 4,
+      "name": "Angela Lipton",
+      "gender": "Female",
+      "marital": "Dwight Schrute",
+      "job": [
+        "Senior Accountant",
+        "Safety Officer"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg",
+      "actor": "Angela Kinsey"
+    },
+    {
+      "id": 3,
+      "name": "Angela Martin",
+      "gender": "Female",
+      "marital": "Dwight Schrute",
+      "job": [
+        "Senior Accountant",
+        "Safety Officer"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/0b/Angela_Martin.jpg",
+      "actor": "Angela Kinsey"
+    },
+    {
+      "id": 5,
+      "name": "Billy Merchant",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Property Manager"
+      ],
+      "workplace": [
+        "Scranton Business Park"
+      ],
+      "firstAppearance": "The Injury",
+      "lastAppearance": "Dream Team",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e1/Billy.jpg",
+      "actor": "Marcus A. York"
+    },
+    {
+      "id": 6,
+      "name": "Bob Vance",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Vance Refrigeration"
+      ],
+      "workplace": [
+        "Vance Refrigeration"
+      ],
+      "firstAppearance": "Christmas Party",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/90/Bob_Vance_Refrigeration.png",
+      "actor": "Robby Ray"
+    },
+    {
+      "id": 7,
+      "name": "Brandon",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Restaurateur"
+      ],
+      "workplace": [],
+      "firstAppearance": "After Hours",
+      "lastAppearance": "Free Family Portrait Studio",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e8/Screen_Shot_2018-03-10_at_5.01.59_PM.png",
+      "actor": "Jerry Minor"
+    },
+    {
+      "id": 8,
+      "name": "Carol Stills",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Real Estate Agent"
+      ],
+      "workplace": [],
+      "firstAppearance": "Office Olympics",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/9d/CarolStills.jpg",
+      "actor": "Nancy Carell"
+    },
+    {
+      "id": 9,
+      "name": "Cathy Simms",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Office Administrator (temporary)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pam's Replacement",
+      "lastAppearance": "Last Day in Florida",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/1d/Cathy_Simms.jpeg",
+      "actor": "Lindsey Broad"
+    },
+    {
+      "id": 10,
+      "name": "Clark Green",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Jr. Salesman",
+        "Customer Service Representative"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "New Guys",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/10/793193d92e3b7f327a97d2bc4a4ec0e8.jpg",
+      "actor": "Clark Duke"
+    },
+    {
+      "id": 11,
+      "name": "Creed Bratton",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Paper Company",
+        "Dunder Mifflin Paper Company"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/20/2009Creed.jpg",
+      "actor": "Creed Bratton"
+    },
+    {
+      "id": 12,
+      "name": "Cynthia",
+      "gender": "Female",
+      "marital": "Stanley Hudson",
+      "job": [
+        "Nurse"
+      ],
+      "workplace": [],
+      "firstAppearance": "Niagara",
+      "lastAppearance": "Garden Party",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/9f/AlgeRita_Lewis_as_Cynthia.jpg",
+      "actor": "Algerita Wynn Lewis"
+    },
+    {
+      "id": 13,
+      "name": "Danny Cordray",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Model (former),",
+        "Traveling Salesman"
+      ],
+      "workplace": [
+        "Osprey Paper"
+      ],
+      "firstAppearance": "The Sting",
+      "lastAppearance": "Michael's Last Dundies ",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/5/59/Guest-star_15.jpg",
+      "actor": "Timothy Olyphant"
+    },
+    {
+      "id": 14,
+      "name": "Darryl Philbin",
+      "gender": "Male",
+      "marital": "Justine",
+      "job": [
+        "Dunder Mifflin Warehouse Foreman (former)",
+        "Dunder Mifflin/Sabre Warehouse Manager (former)",
+        "Dunder Mifflin Marketing Director (former)",
+        "Dunder Mifflin Head of Shipping/Distribution (former)",
+        "Assistant Regional Manager (former)",
+        "Athleap V.P. of Athlete Relations"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Athlead"
+      ],
+      "firstAppearance": "The Alliance",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/49/2009DarrylCroppeed.PNG",
+      "actor": "Craig Robinson"
+    },
+    {
+      "id": 15,
+      "name": "David Wallace",
+      "gender": "Male",
+      "marital": "Rachel Wallace",
+      "job": [
+        "CEO"
+      ],
+      "workplace": [
+        "Dunder Mifflin Paper Company"
+      ],
+      "firstAppearance": "Valentine's Day",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/4f/David.jpg",
+      "actor": "Andy Buckley"
+    },
+    {
+      "id": 16,
+      "name": "Devon White",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin,Quality Assurance Relations",
+        "Dunder Mifflin Supplier Relations (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Diversity Day",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/7/76/Devon.jpg",
+      "actor": "Devon Abner"
+    },
+    {
+      "id": 17,
+      "name": "Donna Newton",
+      "gender": "Female",
+      "marital": "Michael Scott",
+      "job": [
+        "Sid & Dexter's Bar"
+      ],
+      "workplace": [
+        "Sid & Dexter's Bar"
+      ],
+      "firstAppearance": "Happy Hour",
+      "lastAppearance": "The Chump",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/9c/Donna.jpg",
+      "actor": "Amy Pietz"
+    },
+    {
+      "id": 18,
+      "name": "Dwight Schrute",
+      "gender": "Male",
+      "marital": "Angela Martin",
+      "job": [
+        "Assistant to the Regional Manager (former)",
+        "Dunder Mifflin Sabre",
+        "Assistant Regional Manager (former)",
+        "Salesman at Staples (former)",
+        "Lackawanna County volunteer Sheriff's Deputy, Scranton PA (former)",
+        "Vice President of Sabre Retail (former)",
+        "Owner of the Scranton Business Park",
+        "Owner of Schrute Farms",
+        "Dunder Mifflin Assistant to the Assistant to the Regional Manager",
+        "Regional Manager of Dunder Mifflin Scranton"
+      ],
+      "workplace": [
+        "Schrute Farms",
+        "Dunder Mifflin Scranton",
+        "Staples"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/c/c5/Dwight_.jpg",
+      "actor": "Rainn Wilson"
+    },
+    {
+      "id": 19,
+      "name": "Elizabeth",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Stripper"
+      ],
+      "workplace": [],
+      "firstAppearance": "Ben Franklin",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/26/Elizabeth.jpg",
+      "actor": "Jackie Debatin"
+    },
+    {
+      "id": 20,
+      "name": "Erin Hannon",
+      "gender": "Female",
+      "marital": "Andy Bernard",
+      "job": [
+        "Receptionist"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Michael Scott Paper Company",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/0a/ErinHannon.jpg",
+      "actor": "Ellie Kemper"
+    },
+    {
+      "id": 21,
+      "name": "Gabe Lewis",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Coordinating Director for Emerging Regions"
+      ],
+      "workplace": [
+        "Dunder Mifflin Paper Company"
+      ],
+      "firstAppearance": "Sabre",
+      "lastAppearance": "Moving On",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/46/The-office-zach-woods-0.jpg",
+      "actor": "Zach Woods"
+    },
+    {
+      "id": 22,
+      "name": "Gil",
+      "gender": "Male",
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "The Secret",
+      "lastAppearance": "Business School",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/4d/Gill.jpg",
+      "actor": "Tom W. Chick"
+    },
+    {
+      "id": 23,
+      "name": "Gino",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Deliveryman"
+      ],
+      "workplace": [
+        "Vance Refrigeration"
+      ],
+      "firstAppearance": "Halloween",
+      "lastAppearance": "Threat Level Midnight",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/1a/Gino.jpg",
+      "actor": "Lee Eisenberg"
+    },
+    {
+      "id": 24,
+      "name": "Glenn",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Warehouse Staff"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Sexual Harassment",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/22/Lester.jpg",
+      "actor": "Calvin Tenner"
+    },
+    {
+      "id": 25,
+      "name": "Hank Doyle",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Security Guard"
+      ],
+      "workplace": [
+        "Scranton Business Park"
+      ],
+      "firstAppearance": "Halloween",
+      "lastAppearance": "A.A.R.M.",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/a/a1/Tate.jpg/revision/latest?cb=20060528225311",
+      "actor": "Hugh Dane"
+    },
+    {
+      "id": 26,
+      "name": "Hannah Smoterich-Barr",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Accountant (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Stamford"
+      ],
+      "firstAppearance": "Grief Counseling",
+      "lastAppearance": "A Benihana Christmas",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/05/Hannah.jpg/revision/latest?cb=20061120002327",
+      "actor": "Ursula Burton"
+    },
+    {
+      "id": 27,
+      "name": "Helene Beesly",
+      "gender": "Female",
+      "marital": "William Beesly",
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Sexual Harassment",
+      "lastAppearance": "Roy's Wedding",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/a/ad/HeleneBeesly2.png",
+      "actor": "Shannon Cochran"
+    },
+    {
+      "id": 28,
+      "name": "Hidetoshi Hasegawa",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Heart Surgeon (former)",
+        "Electronics Salesman at Sanyo Store (former)",
+        "Warehouse Worker (former)",
+        "Owner of an unnamed energy drink company,",
+        "Warehouse Worker"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Unnamed energy drink company"
+      ],
+      "firstAppearance": "The Meeting",
+      "lastAppearance": "Junior Salesman",
+      "image": "https://images.squarespace-cdn.com/content/v1/59ad917a2994ca092ca60349/1570744981877-LP7QP0L56GY9DMNFBANW/Hide-Dunder-Shirt.jpg?format=2500w",
+      "actor": "Hidetoshi Imura"
+    },
+    {
+      "id": 29,
+      "name": "Holly Flax",
+      "gender": "Female",
+      "marital": "Michael Scott",
+      "job": [
+        "Dunder Mifflin Temporary Human Resources Representative (former),",
+        "Dunder Mifflin Human Resources Representative (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Nashua",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Goodbye, Toby",
+      "lastAppearance": "Goodbye, Michael",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/b9/Holly_Season_7.jpg",
+      "actor": "Amy Ryan"
+    },
+    {
+      "id": 30,
+      "name": "Hunter Raymond",
+      "gender": "Male",
+      "marital": "Jan Levinson",
+      "job": [
+        "Dunder Mifflin Corporate Assistant (former)",
+        "Musician"
+      ],
+      "workplace": [
+        "Dunder Mifflin Corporate Office"
+      ],
+      "firstAppearance": "The Negotiation",
+      "lastAppearance": "The Job",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/2a/Hunter.jpg",
+      "actor": "Nicholas D'Agosto"
+    },
+    {
+      "id": 31,
+      "name": "Irene",
+      "gender": null,
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Test the Store",
+      "lastAppearance": "Get the Girl",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/c/c3/Nup_148136_0092.jpg",
+      "actor": "Georgia Engel"
+    },
+    {
+      "id": 32,
+      "name": "Isabel Poreba",
+      "gender": "Female",
+      "marital": "Dwight Schrute",
+      "job": [
+        "Dental Hygienist"
+      ],
+      "workplace": [],
+      "firstAppearance": "Niagara",
+      "lastAppearance": "Happy Hour",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/4b/IsabelPoreba.jpg/revision/latest?cb=20100326205324",
+      "actor": "Kelen Coleman"
+    },
+    {
+      "id": 33,
+      "name": "Jack Coleman",
+      "gender": null,
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": null,
+      "lastAppearance": null,
+      "image": "https://static.wikia.nocookie.net/theoffice/images/a/a6/Jack_Coleman.jpg/revision/latest?cb=20150925185617",
+      "actor": null
+    },
+    {
+      "id": 34,
+      "name": "Jada Philbin",
+      "gender": "Female",
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Classy Christmas",
+      "lastAppearance": "Free Family Portrait Studio",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/b7/Jada_Philbin.png",
+      "actor": "Taylar Hollomon"
+    },
+    {
+      "id": 35,
+      "name": "Jake Palmer",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Stripper"
+      ],
+      "workplace": [],
+      "firstAppearance": "Take Your Daughter to Work Day",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/c/cd/Jake-Palmer.jpeg",
+      "actor": "Spencer Daniels"
+    },
+    {
+      "id": 36,
+      "name": "Jan Levinson",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Director of Office Supplies",
+        "Serenity by Jan",
+        "VP of Northeastern Sales"
+      ],
+      "workplace": [
+        "Hospital",
+        "Serenity by Jan",
+        "Dunder Mifflin Paper Company"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Couples Discount",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/b9/151564.jpg",
+      "actor": "Melora Hardin"
+    },
+    {
+      "id": 37,
+      "name": "Jerry DiCanio",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Warehouse Staff"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Basketball",
+      "lastAppearance": "Work Bus",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/3/38/Jerry.jpg",
+      "actor": "Matt DeCaro"
+    },
+    {
+      "id": 38,
+      "name": "Jessica",
+      "gender": null,
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": null,
+      "lastAppearance": null,
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/1b/Jessica.jpg/revision/latest?cb=20180514102149",
+      "actor": null
+    },
+    {
+      "id": 39,
+      "name": "Jim Halpert",
+      "gender": "Male",
+      "marital": "Pam Halpert",
+      "job": [
+        "Dunder Mifflin Scranton",
+        "Dunder Mifflin Sabre",
+        "Dunder Mifflin Stamford",
+        "Athlead"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Dunder Mifflin Stamford",
+        "Athlead"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e9/Character_-_JimHalpert.PNG",
+      "actor": "John Krasinski"
+    },
+    {
+      "id": 40,
+      "name": "Jo Bennett",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "CEO"
+      ],
+      "workplace": [
+        "Sabre (company)"
+      ],
+      "firstAppearance": "Sabre",
+      "lastAppearance": "Search Committee",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/3/30/Jobennettheoffice.jpg",
+      "actor": "Kathy Bates"
+    },
+    {
+      "id": 41,
+      "name": "Jordan Garfield",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Executive Assistant"
+      ],
+      "workplace": [],
+      "firstAppearance": null,
+      "lastAppearance": null,
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e4/Jordan.png",
+      "actor": "Cody Horn"
+    },
+    {
+      "id": 42,
+      "name": "Josh Porter",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Branch Manager (formerly)",
+        "Staples Senior Manager"
+      ],
+      "workplace": [
+        "Dunder Mifflin Stamford",
+        "Staples"
+      ],
+      "firstAppearance": "Valentine's Day",
+      "lastAppearance": "Branch Closing",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/8/8b/JoshPorter.jpg",
+      "actor": "Charles Esten"
+    },
+    {
+      "id": 43,
+      "name": "Karen Filippelli",
+      "gender": "Female",
+      "marital": "Dan (Karen's husband)",
+      "job": [
+        "Dunder Mifflin Sales Representative (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Utica",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Gay Witch Hunt",
+      "lastAppearance": "Threat Level Midnight",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/8/80/Bh01.jpg",
+      "actor": "Rashida Jones"
+    },
+    {
+      "id": 44,
+      "name": "Katy Moore",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Handbag saleswoman"
+      ],
+      "workplace": [],
+      "firstAppearance": "Hot Girl",
+      "lastAppearance": "Booze Cruise",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/7/7d/Katy.jpg",
+      "actor": "Amy Adams"
+    },
+    {
+      "id": 45,
+      "name": "Kelly Kapoor",
+      "gender": "Female",
+      "marital": "Ryan Howard",
+      "job": [
+        "Customer Service Representative (Former)",
+        "Minority Executive (Former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Diversity Day",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/69/Kelly_Kapoor.jpg",
+      "actor": "Mindy Kaling"
+    },
+    {
+      "id": 46,
+      "name": "Kenny Anderson",
+      "gender": "Male",
+      "marital": "Denise <small>(ex-partner)</small>",
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Business School",
+      "lastAppearance": "Roy's Wedding",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/c/c2/Kenny.jpg",
+      "actor": "Michael Patrick McGill"
+    },
+    {
+      "id": 47,
+      "name": "Kevin Malone",
+      "gender": "Male",
+      "marital": "Stacy (ex-fiance)",
+      "job": [
+        "Bar Owner",
+        "Dunder Mifflin Accountant (former)",
+        "Dunder Mifflin Regional Manager (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/b2/2009Kevincropped.PNG",
+      "actor": "Brian Baumgartner"
+    },
+    {
+      "id": 48,
+      "name": "Leo",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Vance Refrigeration"
+      ],
+      "workplace": [
+        "Vance Refrigeration"
+      ],
+      "firstAppearance": "Valentine's Day",
+      "lastAppearance": "Café Disco",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/8/8c/Leo.jpg",
+      "actor": "Gene Stupnitsky"
+    },
+    {
+      "id": 49,
+      "name": "Lonny Collins",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Warehouse Staff"
+      ],
+      "workplace": [],
+      "firstAppearance": "Basketball",
+      "lastAppearance": "Safety Training",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/63/Lonnie_Collins.png",
+      "actor": "Patrice O'Neal"
+    },
+    {
+      "id": 50,
+      "name": "Madge Madsen",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Warehouse Staff (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Basketball",
+      "lastAppearance": "Lotto",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/0e/Madge.jpg",
+      "actor": "Karly Rothenberg"
+    },
+    {
+      "id": 51,
+      "name": "Martin Nash",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Supplier Relations (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Stamford",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "The Merger",
+      "lastAppearance": "The Convict",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/5/5a/Martin.jpg",
+      "actor": "Wayne Wilderson"
+    },
+    {
+      "id": 52,
+      "name": "Matt",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Warehouse Worker (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Secret Santa",
+      "lastAppearance": "Happy Hour",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/4/45/Matt.jpg",
+      "actor": "Sam Daly"
+    },
+    {
+      "id": 53,
+      "name": "Megan",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Summer Intern"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Job Fair",
+      "lastAppearance": "Gossip",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/64/Megan.jpg",
+      "actor": "Elvy Yost"
+    },
+    {
+      "id": 54,
+      "name": "Meredith Palmer",
+      "gender": "Female",
+      "marital": "Unnamed man (ex-husband)",
+      "job": [
+        "Purchasing/Supplier Relations",
+        "Accounting (Possibly, Michael said she was an accountant in Season 1 and Jim wrote it on her birthday card in Season 1, episode 4.)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Diversity Day",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/90/2009Meredith.jpg",
+      "actor": "Kate Flannery"
+    },
+    {
+      "id": 55,
+      "name": "Michael Scott",
+      "gender": "Male",
+      "marital": "Holly Flax",
+      "job": [
+        "Regional Manager",
+        "Co-Regional Manager (former)",
+        "Salesman (former)",
+        "Founder and CEO (former)",
+        "Shareholder (former)",
+        "Cutlery Salesman (former)",
+        "Greeter (former)",
+        "Telemarketer (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "The Michael Scott Paper Company",
+        "WUPHF.com (Website)",
+        "Arby's",
+        "Men's Warehouse",
+        "Lipophedrine Diet Pill Company"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/be/Character_-_MichaelScott.PNG",
+      "actor": "Steve Carell"
+    },
+    {
+      "id": 56,
+      "name": "Mose Schrute",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Beet Farmer"
+      ],
+      "workplace": [],
+      "firstAppearance": "Office Olympics",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/2a/MoseSchrute_.jpg",
+      "actor": "Michael Schur"
+    },
+    {
+      "id": 57,
+      "name": "Mr. Brown",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Diversity Sensitivity Trainer"
+      ],
+      "workplace": [
+        "Diversity Today"
+      ],
+      "firstAppearance": "Diversity Day",
+      "lastAppearance": "Gay Witch Hunt",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/14/Brown.jpg",
+      "actor": "Larry Wilmore"
+    },
+    {
+      "id": 58,
+      "name": "Nate Nickerson",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Assistant to Dwight Schrute",
+        "Dunder Mifflin Warehouse Worker"
+      ],
+      "workplace": [
+        "Scranton Business Park",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Sex Ed",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/f/ff/Nate.png",
+      "actor": "Mark Proksch"
+    },
+    {
+      "id": 59,
+      "name": "Nellie Bertram",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Sabre's President of Special Projects (former)",
+        "Special Projects Manager (former)",
+        "Dunder Mifflin Branch Manager (former)"
+      ],
+      "workplace": [
+        "Sabre (company)",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Search Committee",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/1/1f/Tumblr_lzi25h0lVz1qz8vumo1_500.jpg",
+      "actor": "Catherine Tate"
+    },
+    {
+      "id": 60,
+      "name": "Nick",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "IT Guy"
+      ],
+      "workplace": [],
+      "firstAppearance": "Job Fair",
+      "lastAppearance": "Whistleblower",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/0b/Nick.jpg",
+      "actor": "Nelson Franklin"
+    },
+    {
+      "id": 61,
+      "name": "Oscar Martinez",
+      "gender": "Male",
+      "marital": "Gil",
+      "job": [
+        "Dunder Mifflin Scranton"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/25/Oscar_Martinez.jpg",
+      "actor": "Oscar Nunez"
+    },
+    {
+      "id": 62,
+      "name": "Pam Beesly",
+      "gender": "Female",
+      "marital": null,
+      "job": [
+        "Sales Representative (former), Dunder Mifflin Scranton,",
+        "Sales Representative (former), Michael Scott Paper Company,",
+        "Secret Assistant to the Regional Manager (former), Dunder Mifflin Scranton,",
+        "Receptionist (former), Dunder Mifflin Scranton",
+        "Bar Tender(former), The Banshee Pub"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Michael Scott Paper Company"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg",
+      "actor": "Jenna Fischer"
+    },
+    {
+      "id": 63,
+      "name": "Pam Halpert",
+      "gender": "Female",
+      "marital": "Jim Halpert",
+      "job": [
+        "Sales Representative (former), Dunder Mifflin Scranton,",
+        "Sales Representative (former), Michael Scott Paper Company,",
+        "Secret Assistant to the Regional Manager (former), Dunder Mifflin Scranton,",
+        "Receptionist (former), Dunder Mifflin Scranton",
+        "Bar Tender (former), The Banshee Pub"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Michael Scott Paper Company"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/67/Pam_Beesley.jpg",
+      "actor": "Jenna Fischer"
+    },
+    {
+      "id": 64,
+      "name": "Pete Miller",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Customer Service Representative"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "New Guys",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/6/6b/The-Office-Season-9-Episode-3-Andys-Ancestry-2.jpg",
+      "actor": "Jake Lacy"
+    },
+    {
+      "id": 65,
+      "name": "Philip",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Warehouse Staff"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Basketball",
+      "lastAppearance": "Goodbye, Toby",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/3/3b/Philip.jpg",
+      "actor": "Philip Pickard"
+    },
+    {
+      "id": 67,
+      "name": "Phyllis Vance",
+      "gender": "Female",
+      "marital": "Bob Vance",
+      "job": [
+        "Regional Director of Sales"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e6/Phyllis_Vance.jpg",
+      "actor": "Phyllis Smith"
+    },
+    {
+      "id": 68,
+      "name": "Ravi",
+      "gender": null,
+      "marital": null,
+      "job": [
+        "Pediatrician"
+      ],
+      "workplace": [],
+      "firstAppearance": "Angry Andy",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/d/d6/Ravi.png",
+      "actor": "Sendhil Ramamurthy"
+    },
+    {
+      "id": 69,
+      "name": "Robert California",
+      "gender": null,
+      "marital": "Susan California",
+      "job": [
+        "CEO of Sabre (former)",
+        "Regional Manager of Dunder Mifflin Scranton (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Sabre"
+      ],
+      "firstAppearance": "Search Committee",
+      "lastAppearance": "Free Family Portrait Studio",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/24/Robert_California_1.jpg",
+      "actor": "James Spader"
+    },
+    {
+      "id": 70,
+      "name": "Robert Lipton",
+      "gender": "Male",
+      "marital": "Oscar Martinez",
+      "job": [
+        "State Senator (formerly)"
+      ],
+      "workplace": [],
+      "firstAppearance": "WUPHF.com",
+      "lastAppearance": "Stairmageddon",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/f/f6/The-office-the-target_0757.jpg",
+      "actor": "Jack Coleman"
+    },
+    {
+      "id": 71,
+      "name": "Roy Anderson",
+      "gender": "Male",
+      "marital": "Laura Anderson",
+      "job": [
+        "Owner, unnamed Gravel Company",
+        "Dunder Mifflin Warehouse Worker (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Roy's Wedding",
+      "image": "https://static1.personality-database.com/profile_images/da8bbadcb8cd4654aa54e3065b50a8d8.png",
+      "actor": "David Denman"
+    },
+    {
+      "id": 72,
+      "name": "Ryan Howard",
+      "gender": "Male",
+      "marital": "Kelly Kapoor",
+      "job": [
+        "Salesman - Michael Scott Paper Company (former)",
+        "VP of Northeastern Sales",
+        "N.E. Region Director of New Media",
+        "Bowling Alley Desk Attendant (former)",
+        "CEO of WUPHF.com (former)",
+        "Temp at Dunder Mifflin Scranton(former)",
+        "Temp at Sabre store(former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton",
+        "Dunder Mifflin Corporate Office",
+        "The Michael Scott Paper Company",
+        "Idle Hour Lanes"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://theofficeanalytics.files.wordpress.com/2017/11/ryan-2.jpg",
+      "actor": "B.J. Novak"
+    },
+    {
+      "id": 73,
+      "name": "Sadiq",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "IT Technician"
+      ],
+      "workplace": [],
+      "firstAppearance": "Email Surveillance",
+      "lastAppearance": "Sabre",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/9e/Sadiq.jpg",
+      "actor": "Omi Vaidya"
+    },
+    {
+      "id": 74,
+      "name": "Sasha Flenderson",
+      "gender": "Female",
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Take Your Daughter to Work Day",
+      "lastAppearance": "Free Family Portrait Studio",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/0/04/Sasha.png",
+      "actor": "Delaney Ruth Farrell"
+    },
+    {
+      "id": 75,
+      "name": "Stacy",
+      "gender": "Female",
+      "marital": "Kevin Malone",
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "The Dundies",
+      "lastAppearance": "Phyllis' Wedding",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/c/c7/Stacy.jpg",
+      "actor": "Trish Gates"
+    },
+    {
+      "id": 76,
+      "name": "Stanley Hudson",
+      "gender": "Male",
+      "marital": "Teri Hudson",
+      "job": [
+        "Sales Representative, Dunder Mifflin Scranton (Retired)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg",
+      "actor": "Leslie David Baker"
+    },
+    {
+      "id": 77,
+      "name": "Teri Hudson",
+      "gender": "Female",
+      "marital": "Stanley Hudson",
+      "job": [
+        "Interior decorator"
+      ],
+      "workplace": [],
+      "firstAppearance": "The Dundies",
+      "lastAppearance": "Gossip",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/f/f2/Terri.jpg",
+      "actor": "Joanne Carlsen"
+    },
+    {
+      "id": 78,
+      "name": "Toby Flenderson",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Author",
+        "Human Resources Representative (former)"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Diversity Day",
+      "lastAppearance": "Finale",
+      "image": "https://img.nbc.com/files/images/2013/11/12/toby-500x500.jpg",
+      "actor": "Paul Lieberstein"
+    },
+    {
+      "id": 79,
+      "name": "Todd Packer",
+      "gender": "Male",
+      "marital": "Unnamed ex-wife",
+      "job": [
+        "Dunder Mifflin Paper Company"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Pilot",
+      "lastAppearance": "The Farm",
+      "image": "https://static.wikia.nocookie.net/villains/images/9/9a/ToddPackerPicFace.png",
+      "actor": "David Koechner"
+    },
+    {
+      "id": 80,
+      "name": "Tony Gardner",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Sales Representative"
+      ],
+      "workplace": [
+        "Dunder Mifflin Stamford",
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Diwali",
+      "lastAppearance": "Threat Level Midnight",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/e/e4/Tony.jpg",
+      "actor": "Mike Bruner"
+    },
+    {
+      "id": 81,
+      "name": "Troy Underbridge",
+      "gender": "Male",
+      "marital": null,
+      "job": [
+        "Dunder Mifflin Banking"
+      ],
+      "workplace": [
+        "Dunder Mifflin Corporate Office"
+      ],
+      "firstAppearance": "The Deposition",
+      "lastAppearance": "Junior Salesman",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/9/9c/Troy.jpg",
+      "actor": "Noel Petok"
+    },
+    {
+      "id": 82,
+      "name": "Val Johnson",
+      "gender": "Female",
+      "marital": "Darryl Philbin",
+      "job": [
+        "Dunder Mifflin Warehouse Foreman"
+      ],
+      "workplace": [
+        "Dunder Mifflin Scranton"
+      ],
+      "firstAppearance": "Lotto",
+      "lastAppearance": "Finale",
+      "image": "https://static.wikia.nocookie.net/theoffice/images/b/b0/Screen_Shot_2016-08-16_at_4.20.29_PM.png",
+      "actor": "Ameenah Kaplan"
+    },
+    {
+      "id": 83,
+      "name": "Walter Bernard Jr.",
+      "gender": null,
+      "marital": null,
+      "job": [],
+      "workplace": [],
+      "firstAppearance": "Garden Party",
+      "lastAppearance": "The Boat",
+      "image": "https://vignette.wikia.nocookie.net/theoffice/images/4/44/WBjr..jpg/revision/latest?cb=20130610043225",
+      "actor": "Josh Groban"
+    }
+  ],
+  "meta": {
+    "isFirstPage": true,
+    "isLastPage": true,
+    "currentPage": 1,
+    "nextPage": null,
+    "pageCount": 1,
+    "previousPage": null,
+    "totalCount": 83
+  }
+}

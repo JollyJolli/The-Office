@@ -1,0 +1,135 @@
+body {
+    color: #eefeda; /* Color del texto */
+    background-color: #110125; /* Color de fondo */
+    font-family: Arial, sans-serif; /* Fuente */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #22044D; /* Color de fondo del encabezado */
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.search-container {
+    margin-bottom: 20px;
+    text-align: center; /* Centrar la barra de búsqueda */
+}
+
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #eefeda;
+    border-radius: 5px;
+    width: 100%; /* Ancho de la barra de búsqueda */
+    max-width: 400px; /* Ancho máximo */
+}
+
+#search-button,
+#favorites-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4b0082; /* Morado oscuro */
+    color: #ffffff; /* Texto blanco */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Transición de color de fondo */
+    margin-top: 10px; /* Espaciado entre botones */
+}
+
+#search-button:hover,
+#favorites-button:hover {
+    background-color: #6a5acd; /* Cambio de color al pasar el mouse */
+}
+
+.character-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.character-card {
+    background-color: #22044D;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s; /* Transición de tamaño */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.character-card:hover {
+    transform: translateY(-5px); /* Efecto de elevación al pasar el mouse */
+}
+
+.character-card img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.character-card h2 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.character-card p {
+    margin: 5px 0;
+}
+
+.favorite {
+    border: 2px solid gold; /* Estilo de borde para indicar que es un favorito */
+}
+
+.favorite-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: transparent; /* Fondo transparente */
+    color: gold; /* Color del texto */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: color 0.3s; /* Transición de color del texto */
+}
+
+.favorite-button:hover {
+    color: #806c00; /* Cambio de color al pasar el mouse */
+}
+
+.favorite-button i {
+    margin-right: 5px; /* Espacio entre el icono y el texto */
+}
+
+/* Estilos para pantallas más pequeñas */
+@media screen and (max-width: 768px) {
+    .character-cards {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Cambia el tamaño de las tarjetas */
+    }
+
+    .search-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #search-input {
+        width: 100%;
+        max-width: none;
+    }
+
+    #search-button,
+    #favorites-button {
+        margin-top: 10px;
+        width: 100%;
+        max-width: 200px;
+    }
+}
